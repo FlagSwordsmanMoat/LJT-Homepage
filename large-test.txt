@@ -1,1 +1,1 @@
-curly: {options.slug}
+markdown link: [Google Scholar](https://scholar.google.com)
